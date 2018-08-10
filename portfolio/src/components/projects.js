@@ -61,7 +61,7 @@ switchProjects()
 					Portfolio gives you a glimpse of my personal and professional information!
 				</CardText>
 				<CardActions border>
-					<a href ="" colored>GitHub</a>
+					<a href ="https://github.com/PruthaShirodkar20/Portfolio" colored>GitHub</a>
 				</CardActions>
 			</Card>
 			)
