@@ -1,4 +1,1 @@
-There are two steps to follow:-
-
-1)npm install
-2)npm run dev
+For executing the project first execute npm install and then npm run dev.
